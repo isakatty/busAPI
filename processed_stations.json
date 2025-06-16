@@ -1,0 +1,662 @@
+[
+  {
+    "nodeID": "10210",
+    "arsId": "10210",
+    "routeName": "쌍문동한양.현대아파트"
+  },
+  {
+    "nodeID": "10211",
+    "arsId": "10211",
+    "routeName": "세그루학원"
+  },
+  {
+    "nodeID": "10212",
+    "arsId": "10212",
+    "routeName": "쌍문동한양아파트"
+  },
+  {
+    "nodeID": "10213",
+    "arsId": "10213",
+    "routeName": "쌍문동성원아파트"
+  },
+  {
+    "nodeID": "10214",
+    "arsId": "10214",
+    "routeName": "도봉구보건소앞"
+  },
+  {
+    "nodeID": "10215",
+    "arsId": "10215",
+    "routeName": "쌍문동현대.한양아파트"
+  },
+  {
+    "nodeID": "10216",
+    "arsId": "10216",
+    "routeName": "도봉구민회관.도봉문화원"
+  },
+  {
+    "nodeID": "10217",
+    "arsId": "10217",
+    "routeName": "쌍문동금호1차.삼익아파트"
+  },
+  {
+    "nodeID": "10218",
+    "arsId": "10218",
+    "routeName": "동아운수앞"
+  },
+  {
+    "nodeID": "10219",
+    "arsId": "10219",
+    "routeName": "북서울교회"
+  },
+  {
+    "nodeID": "10221",
+    "arsId": "10221",
+    "routeName": "서라벌중학교.우이동대우아파트"
+  },
+  {
+    "nodeID": "10222",
+    "arsId": "10222",
+    "routeName": "숭미초등학교"
+  },
+  {
+    "nodeID": "10223",
+    "arsId": "10223",
+    "routeName": "강북중학교"
+  },
+  {
+    "nodeID": "10224",
+    "arsId": "10224",
+    "routeName": "신일라이프아파트"
+  },
+  {
+    "nodeID": "10225",
+    "arsId": "10225",
+    "routeName": "쌍문1동주민센터"
+  },
+  {
+    "nodeID": "10226",
+    "arsId": "10226",
+    "routeName": "세그루학원"
+  },
+  {
+    "nodeID": "10227",
+    "arsId": "10227",
+    "routeName": "옛고을길입구"
+  },
+  {
+    "nodeID": "10228",
+    "arsId": "10228",
+    "routeName": "창5동현대1차아파트"
+  },
+  {
+    "nodeID": "10229",
+    "arsId": "10229",
+    "routeName": "서울북부지방법원등기국"
+  },
+  {
+    "nodeID": "10231",
+    "arsId": "10231",
+    "routeName": "쌍문역"
+  },
+  {
+    "nodeID": "10232",
+    "arsId": "10232",
+    "routeName": "창동주공1단지"
+  },
+  {
+    "nodeID": "10234",
+    "arsId": "10234",
+    "routeName": "창일중학교"
+  },
+  {
+    "nodeID": "10235",
+    "arsId": "10235",
+    "routeName": "노원구청"
+  },
+  {
+    "nodeID": "10236",
+    "arsId": "10236",
+    "routeName": "세무서앞"
+  },
+  {
+    "nodeID": "10241",
+    "arsId": "10241",
+    "routeName": "녹천북부역"
+  },
+  {
+    "nodeID": "10242",
+    "arsId": "10242",
+    "routeName": "도봉문화정보도서관"
+  },
+  {
+    "nodeID": "10244",
+    "arsId": "10244",
+    "routeName": "창동주공4단지"
+  },
+  {
+    "nodeID": "10245",
+    "arsId": "10245",
+    "routeName": "창림초교.창동신창아파트앞"
+  },
+  {
+    "nodeID": "10246",
+    "arsId": "10246",
+    "routeName": "도봉문화정보도서관"
+  },
+  {
+    "nodeID": "10247",
+    "arsId": "10247",
+    "routeName": "국립현대미술관창동레지던시"
+  },
+  {
+    "nodeID": "10248",
+    "arsId": "10248",
+    "routeName": "창림초교.창동신창아파트앞"
+  },
+  {
+    "nodeID": "10249",
+    "arsId": "10249",
+    "routeName": "신창.창동시장"
+  },
+  {
+    "nodeID": "10250",
+    "arsId": "10250",
+    "routeName": "창동.신창시장"
+  },
+  {
+    "nodeID": "10251",
+    "arsId": "10251",
+    "routeName": "우이3교"
+  },
+  {
+    "nodeID": "10252",
+    "arsId": "10252",
+    "routeName": "태영데시앙아파트"
+  },
+  {
+    "nodeID": "10253",
+    "arsId": "10253",
+    "routeName": "창번2교앞"
+  },
+  {
+    "nodeID": "10256",
+    "arsId": "10256",
+    "routeName": "창동청구빌라"
+  },
+  {
+    "nodeID": "10257",
+    "arsId": "10257",
+    "routeName": "KT도봉지점"
+  },
+  {
+    "nodeID": "10258",
+    "arsId": "10258",
+    "routeName": "창2동한일아파트"
+  },
+  {
+    "nodeID": "10259",
+    "arsId": "10259",
+    "routeName": "쌍문역.쌍리단길"
+  },
+  {
+    "nodeID": "10260",
+    "arsId": "10260",
+    "routeName": "창1동제1공영주차장입구"
+  },
+  {
+    "nodeID": "10261",
+    "arsId": "10261",
+    "routeName": "창성빌라"
+  },
+  {
+    "nodeID": "10262",
+    "arsId": "10262",
+    "routeName": "대우아파트104동"
+  },
+  {
+    "nodeID": "10263",
+    "arsId": "10263",
+    "routeName": "국립현대미술관창동레지던시"
+  },
+  {
+    "nodeID": "10264",
+    "arsId": "10264",
+    "routeName": "창2동주민센터·보건지소"
+  },
+  {
+    "nodeID": "10265",
+    "arsId": "10265",
+    "routeName": "창동농협물류센터"
+  },
+  {
+    "nodeID": "10266",
+    "arsId": "10266",
+    "routeName": "상계6동우체국"
+  },
+  {
+    "nodeID": "10269",
+    "arsId": "10269",
+    "routeName": "창1동주민센터"
+  },
+  {
+    "nodeID": "10270",
+    "arsId": "10270",
+    "routeName": "창동주공3단지"
+  },
+  {
+    "nodeID": "10271",
+    "arsId": "10271",
+    "routeName": "도봉문화정보도서관"
+  },
+  {
+    "nodeID": "10272",
+    "arsId": "10272",
+    "routeName": "서울북부지방법원등기국"
+  },
+  {
+    "nodeID": "10273",
+    "arsId": "10273",
+    "routeName": "창1동주민센터"
+  },
+  {
+    "nodeID": "10276",
+    "arsId": "10276",
+    "routeName": "방학3동주민센터"
+  },
+  {
+    "nodeID": "10277",
+    "arsId": "10277",
+    "routeName": "둘리뮤지엄.대우이안극동아파트"
+  },
+  {
+    "nodeID": "10278",
+    "arsId": "10278",
+    "routeName": "마들근린공원.노원에코센터"
+  },
+  {
+    "nodeID": "10279",
+    "arsId": "10279",
+    "routeName": "창동주공4단지"
+  },
+  {
+    "nodeID": "10280",
+    "arsId": "10280",
+    "routeName": "북서울농협창동지점"
+  },
+  {
+    "nodeID": "10281",
+    "arsId": "10281",
+    "routeName": "한승미메이드아파트"
+  },
+  {
+    "nodeID": "10282",
+    "arsId": "10282",
+    "routeName": "창3동염광아트필"
+  },
+  {
+    "nodeID": "10283",
+    "arsId": "10283",
+    "routeName": "초안아파트.흥화브라운빌아파트"
+  },
+  {
+    "nodeID": "10284",
+    "arsId": "10284",
+    "routeName": "신화초교입구"
+  },
+  {
+    "nodeID": "10285",
+    "arsId": "10285",
+    "routeName": "창3동염광아트빌"
+  },
+  {
+    "nodeID": "10286",
+    "arsId": "10286",
+    "routeName": "신창교"
+  },
+  {
+    "nodeID": "10287",
+    "arsId": "10287",
+    "routeName": "북서울농협창동지점"
+  },
+  {
+    "nodeID": "10292",
+    "arsId": "10292",
+    "routeName": "녹천역"
+  },
+  {
+    "nodeID": "10293",
+    "arsId": "10293",
+    "routeName": "창동주공18단지"
+  },
+  {
+    "nodeID": "10294",
+    "arsId": "10294",
+    "routeName": "거성학마을아파트"
+  },
+  {
+    "nodeID": "10295",
+    "arsId": "10295",
+    "routeName": "도봉새마을금고본점"
+  },
+  {
+    "nodeID": "10296",
+    "arsId": "10296",
+    "routeName": "방학역"
+  },
+  {
+    "nodeID": "10297",
+    "arsId": "10297",
+    "routeName": "창동주공1단지아파트"
+  },
+  {
+    "nodeID": "10298",
+    "arsId": "10298",
+    "routeName": "도봉구보건소앞"
+  },
+  {
+    "nodeID": "10299",
+    "arsId": "10299",
+    "routeName": "창동쌍용아파트"
+  },
+  {
+    "nodeID": "10301",
+    "arsId": "10301",
+    "routeName": "창동서울탁주앞"
+  },
+  {
+    "nodeID": "10302",
+    "arsId": "10302",
+    "routeName": "신동아아파트16동"
+  },
+  {
+    "nodeID": "10303",
+    "arsId": "10303",
+    "routeName": "두산아파트.도심공항수락터미널"
+  },
+  {
+    "nodeID": "10304",
+    "arsId": "10304",
+    "routeName": "북한산아이파크"
+  },
+  {
+    "nodeID": "10305",
+    "arsId": "10305",
+    "routeName": "창동역서측"
+  },
+  {
+    "nodeID": "10306",
+    "arsId": "10306",
+    "routeName": "창동고등학교.창북중학교"
+  },
+  {
+    "nodeID": "10309",
+    "arsId": "10309",
+    "routeName": "방학중학교정문"
+  },
+  {
+    "nodeID": "10310",
+    "arsId": "10310",
+    "routeName": "방학동신우빌라"
+  },
+  {
+    "nodeID": "10311",
+    "arsId": "10311",
+    "routeName": "우이1교앞"
+  },
+  {
+    "nodeID": "10312",
+    "arsId": "10312",
+    "routeName": "신화초교입구"
+  },
+  {
+    "nodeID": "10313",
+    "arsId": "10313",
+    "routeName": "창2동주민센터.보건지소"
+  },
+  {
+    "nodeID": "10314",
+    "arsId": "10314",
+    "routeName": "창동서울탁주앞"
+  },
+  {
+    "nodeID": "10315",
+    "arsId": "10315",
+    "routeName": "창동대우아파트"
+  },
+  {
+    "nodeID": "10320",
+    "arsId": "10320",
+    "routeName": "안방학동"
+  },
+  {
+    "nodeID": "10321",
+    "arsId": "10321",
+    "routeName": "샘말어린이공원"
+  },
+  {
+    "nodeID": "10325",
+    "arsId": "10325",
+    "routeName": "우이동성원아파트"
+  },
+  {
+    "nodeID": "10330",
+    "arsId": "10330",
+    "routeName": "국립현대미술관창동레지던시"
+  },
+  {
+    "nodeID": "10331",
+    "arsId": "10331",
+    "routeName": "창동서울탁주앞"
+  },
+  {
+    "nodeID": "10333",
+    "arsId": "10333",
+    "routeName": "방학중학교정문"
+  },
+  {
+    "nodeID": "10334",
+    "arsId": "10334",
+    "routeName": "샘말어린이공원"
+  },
+  {
+    "nodeID": "10335",
+    "arsId": "10335",
+    "routeName": "창동역동측"
+  },
+  {
+    "nodeID": "10336",
+    "arsId": "10336",
+    "routeName": "창2동주민센터.보건지소"
+  },
+  {
+    "nodeID": "10337",
+    "arsId": "10337",
+    "routeName": "신방학중학교앞"
+  },
+  {
+    "nodeID": "10339",
+    "arsId": "10339",
+    "routeName": "다락원.서울도솔학교앞"
+  },
+  {
+    "nodeID": "10340",
+    "arsId": "10340",
+    "routeName": "도봉산역"
+  },
+  {
+    "nodeID": "10342",
+    "arsId": "10342",
+    "routeName": "연산군.정의공주묘"
+  },
+  {
+    "nodeID": "10343",
+    "arsId": "10343",
+    "routeName": "우이동도선사입구.북한산우이역"
+  },
+  {
+    "nodeID": "10411",
+    "arsId": "10411",
+    "routeName": "녹천교"
+  },
+  {
+    "nodeID": "10412",
+    "arsId": "10412",
+    "routeName": "노원구청"
+  },
+  {
+    "nodeID": "10413",
+    "arsId": "10413",
+    "routeName": "월계보건지소"
+  },
+  {
+    "nodeID": "10414",
+    "arsId": "10414",
+    "routeName": "창동교"
+  },
+  {
+    "nodeID": "10502",
+    "arsId": "10502",
+    "routeName": "방학3동신동아프라자"
+  },
+  {
+    "nodeID": "10503",
+    "arsId": "10503",
+    "routeName": "한일병원입구"
+  },
+  {
+    "nodeID": "10504",
+    "arsId": "10504",
+    "routeName": "용호약국"
+  },
+  {
+    "nodeID": "10505",
+    "arsId": "10505",
+    "routeName": "에덴약국"
+  },
+  {
+    "nodeID": "10509",
+    "arsId": "10509",
+    "routeName": "우이1교앞"
+  },
+  {
+    "nodeID": "10510",
+    "arsId": "10510",
+    "routeName": "사거리슈퍼"
+  },
+  {
+    "nodeID": "10511",
+    "arsId": "10511",
+    "routeName": "쌍문1동현대아파트"
+  },
+  {
+    "nodeID": "10512",
+    "arsId": "10512",
+    "routeName": "우이성당"
+  },
+  {
+    "nodeID": "10515",
+    "arsId": "10515",
+    "routeName": "믿음주유소"
+  },
+  {
+    "nodeID": "10516",
+    "arsId": "10516",
+    "routeName": "오복슈퍼"
+  },
+  {
+    "nodeID": "10517",
+    "arsId": "10517",
+    "routeName": "약초원.동아슈퍼"
+  },
+  {
+    "nodeID": "10519",
+    "arsId": "10519",
+    "routeName": "세그루학원"
+  },
+  {
+    "nodeID": "10521",
+    "arsId": "10521",
+    "routeName": "쌍문1동주민센터"
+  },
+  {
+    "nodeID": "10522",
+    "arsId": "10522",
+    "routeName": "코오롱아파트.덕성여대기숙사"
+  },
+  {
+    "nodeID": "10526",
+    "arsId": "10526",
+    "routeName": "쌍문초등학교"
+  },
+  {
+    "nodeID": "10527",
+    "arsId": "10527",
+    "routeName": "쌍문초등학교"
+  },
+  {
+    "nodeID": "10528",
+    "arsId": "10528",
+    "routeName": "효문중학교"
+  },
+  {
+    "nodeID": "10529",
+    "arsId": "10529",
+    "routeName": "서울문화고등학교"
+  },
+  {
+    "nodeID": "10531",
+    "arsId": "10531",
+    "routeName": "시립도봉노인종합복지관"
+  },
+  {
+    "nodeID": "10532",
+    "arsId": "10532",
+    "routeName": "미래빌라"
+  },
+  {
+    "nodeID": "10533",
+    "arsId": "10533",
+    "routeName": "경기푸른미래관"
+  },
+  {
+    "nodeID": "10535",
+    "arsId": "10535",
+    "routeName": "엘지전자"
+  },
+  {
+    "nodeID": "10536",
+    "arsId": "10536",
+    "routeName": "쌍문동금호1차.삼익아파트"
+  },
+  {
+    "nodeID": "10537",
+    "arsId": "10537",
+    "routeName": "코오롱아파트.덕성여대기숙사"
+  },
+  {
+    "nodeID": "10540",
+    "arsId": "10540",
+    "routeName": "도봉구청"
+  },
+  {
+    "nodeID": "10541",
+    "arsId": "10541",
+    "routeName": "창동고등학교.창북중학교"
+  },
+  {
+    "nodeID": "10542",
+    "arsId": "10542",
+    "routeName": "쌍문동현대.한양아파트"
+  },
+  {
+    "nodeID": "10546",
+    "arsId": "10546",
+    "routeName": "숭미초등학교"
+  },
+  {
+    "nodeID": "10549",
+    "arsId": "10549",
+    "routeName": "천주교도봉동교회"
+  }
+]
