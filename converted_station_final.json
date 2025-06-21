@@ -12,15 +12,6 @@
     "DATA":
 [
   {
-    "nodeID": "nodeId",
-    "stop_no": "arsId",
-    "routeName": "routeName",
-    "ycode": "ycode",
-    "xcode": "xcode",
-    "routeType": "routeType",
-    "nxtStn": ""
-  },
-  {
     "nodeID": "100000001",
     "stop_no": "1001",
     "routeName": "종로2가사거리",
